@@ -3,7 +3,7 @@
 *  Please have a look at my repositories.
 * 📫 How to reach me: josinajoy24@gmail.com
 #### Languages & Tools
-[![image](https://user-images.githubusercontent.com/66690240/141945444-b358bffc-adf7-4b56-a40f-e67289c6e9f0.png)](https://pandas.pydata.org/) 
+[![image](https://user-images.githubusercontent.com/66690240/141945444-b358bffc-adf7-4b56-a40f-e67289c6e9f0.png)](https://pandas.pydata.org/) [![image](https://user-images.githubusercontent.com/66690240/141946489-0af4b306-c8d2-45d8-88eb-2f1b2c6d4271.png)](https://plotly.com/)
 
 <!--
 **josinapjoy/josinapjoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
