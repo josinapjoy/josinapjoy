@@ -1,4 +1,6 @@
 ### Hi there 👋
+Welcome to my Github Repo. Please have a look at my repositories.
+📫 How to reach me: josinajoy24@gmail.com
 
 <!--
 **josinapjoy/josinapjoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
