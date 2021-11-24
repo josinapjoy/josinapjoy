@@ -1,9 +1,14 @@
-### Hi there 👋 Welcome to my Github Repo
-* I am a data analyst who can tell stories by using data.
+### Hi there 👋 Welcome to my Github.
+#### In today’s digital era, where data is acknowledged as a powerful source of information. I have a primary ambition to contribute as a Data Analyst. The academic and personnel projects which I have done gave me a strong foundation to explore and implement the data analysis starting from data extraction and finishing with dashboards. Thereby presenting me an opportunity to draw meaningful insights for the respective stakeholders.
+### Skillset  
+#### BI Tools :                 Power BI, Tableau, SQL, Advanced Excel, Google Sheets
+#### Programming Languages:     Python, R
+#### Databases:                 Microsoft SQL Server, MySQL, MongoDB, Redshift
+#### Softwares & Tools:         Pycharm, Jupyter Notebook, RStudio, MS Power point, MS Word, Agile project management                                              
+#### Frameworks & Libraries:    Pandas, Numpy, SQLAlchemy, ggplot2, Matplotlib, Scikit-learn,plotly, Beautifulsoup, seaborn
+                                              
 *  Please have a look at my repositories.
 * 📫 How to reach me: josinajoy24@gmail.com
-#### Languages & Tools
-[![image](https://user-images.githubusercontent.com/66690240/141945444-b358bffc-adf7-4b56-a40f-e67289c6e9f0.png)](https://pandas.pydata.org/) [![image](https://user-images.githubusercontent.com/66690240/141946489-0af4b306-c8d2-45d8-88eb-2f1b2c6d4271.png)](https://plotly.com/)
 
 <!--
 **josinapjoy/josinapjoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
