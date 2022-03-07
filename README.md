@@ -1,11 +1,11 @@
 ### Hi there 👋 Welcome to my Github.
-#### In today’s digital era, where data is acknowledged as a powerful source of information. I have a primary ambition to contribute as a Data Analyst. The academic and personnel projects which I have done gave me a strong foundation to explore and implement the data analysis starting from data extraction and finishing with dashboards. Thereby presenting me an opportunity to draw meaningful insights for the respective stakeholders.
+#### In today's digital world, where data is recognized as a powerful source of information. I have strong knowledge and interest in data analysis, data integration and infrastructure.
 ### Skillset  
-#### BI Tools :                 Power BI, Tableau, SQL, Advanced Excel, Google Sheets
+#### BI Tools :                 Power BI, Tableau, SQL, Advanced Excel
 #### Programming Languages:     Python, R
-#### Databases:                 Microsoft SQL Server, MySQL, MongoDB, Redshift
-#### Softwares & Tools:         Pycharm, Jupyter Notebook, RStudio, MS Power point, MS Word, Agile project management                                              
-#### Frameworks & Libraries:    Pandas, Numpy, SQLAlchemy, ggplot2, Matplotlib, Scikit-learn,plotly, Beautifulsoup, seaborn
+#### Databases:                 Microsoft SQL Server, MySQL, MongoDB
+#### Softwares & Tools:         Pycharm, Jupyter Notebook, RStudio, Agile project management , Git, Docker                                              
+#### Frameworks & Libraries:    Pyspark, Flask, Hadoop, Pandas, Numpy, Matplotlib, Scikit-learn
                                               
 *  Please have a look at my repositories.
 * 📫 How to reach me: josinajoy24@gmail.com
