@@ -1,5 +1,5 @@
 ### Hi there 👋 Welcome to my Github.
-#### In today's digital world, where data is recognized as a powerful source of information. I have strong knowledge and interest in data analysis, data integration and infrastructure.
+#### In today's digital world, where data is recognized as a powerful source of information. I am a data enthusiast who has strong knowledge and interest in data analysis, data integration and infrastructure.
 ### Skillset  
 #### BI Tools :                 Power BI, Tableau, SQL, Advanced Excel
 #### Programming Languages:     Python, R
