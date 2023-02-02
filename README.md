@@ -4,7 +4,7 @@
 #### BI Tools :                 Power BI, Tableau, SQL, Advanced Excel
 #### Programming Languages:     Python, R
 #### Databases:                 Microsoft SQL Server, MySQL, MongoDB
-#### Softwares & Tools:         Pycharm, Jupyter Notebook, RStudio, Agile project management , Git, Docker                                              
+#### Softwares & Tools:         Pycharm, Jupyter Notebook, RStudio, Git, Docker                                              
 #### Frameworks & Libraries:    Pyspark, Flask, Hadoop, Pandas, Numpy, Matplotlib, Scikit-learn
                                               
 *  Please have a look at my repositories.
