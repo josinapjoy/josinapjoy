@@ -9,6 +9,7 @@
                                               
 *  Please have a look at my repositories.
 * 📫 How to reach me: josinajoy24@gmail.com
+- 🌱 I’m currently learning ... Embedded Software Development
 ![image](https://user-images.githubusercontent.com/66690240/143483151-11d0fef8-cd67-4339-90ea-5605b7646a96.png)
 
 
